@@ -30,7 +30,7 @@
     "rand-token": "^0.4.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "serialize-javascript": "^1.5.0",
+    "serialize-javascript": "^2.1.1",
     "tween": "^0.9.0"
   }
 }
